@@ -1,6 +1,7 @@
 AI Safety Evaluation Tool
 
 轻量级本地 LLM 安全评测工具，支持 5 类攻击 + 6 层防御，自动生成报告。
+CSDN：https://blog.csdn.net/2302_80354289/article/details/161080207?sharetype=blogdetail&sharerId=161080207&sharerefer=PC&sharesource=2302_80354289&spm=1011.2480.3001.8118
 
 ========================================
 
